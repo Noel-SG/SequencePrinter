@@ -1,0 +1,7 @@
+C:\Users\Noel\Documents\Programming\C#\Various projects\Sequence Printer (1.1)\Sequence Printer (1.1)\bin\Debug\Sequence Printer (1.1).exe.config
+C:\Users\Noel\Documents\Programming\C#\Various projects\Sequence Printer (1.1)\Sequence Printer (1.1)\bin\Debug\Sequence Printer (1.1).exe
+C:\Users\Noel\Documents\Programming\C#\Various projects\Sequence Printer (1.1)\Sequence Printer (1.1)\bin\Debug\Sequence Printer (1.1).pdb
+C:\Users\Noel\Documents\Programming\C#\Various projects\Sequence Printer (1.1)\Sequence Printer (1.1)\obj\Debug\Sequence Printer (1.1).csprojAssemblyReference.cache
+C:\Users\Noel\Documents\Programming\C#\Various projects\Sequence Printer (1.1)\Sequence Printer (1.1)\obj\Debug\Sequence Printer (1.1).csproj.CoreCompileInputs.cache
+C:\Users\Noel\Documents\Programming\C#\Various projects\Sequence Printer (1.1)\Sequence Printer (1.1)\obj\Debug\Sequence Printer (1.1).exe
+C:\Users\Noel\Documents\Programming\C#\Various projects\Sequence Printer (1.1)\Sequence Printer (1.1)\obj\Debug\Sequence Printer (1.1).pdb
